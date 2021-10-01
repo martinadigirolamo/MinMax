@@ -1,0 +1,7 @@
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\bin\Debug\MinMax.exe
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\bin\Debug\MinMax.pdb
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.exe
+C:\Users\martina.di girolamo.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.pdb
